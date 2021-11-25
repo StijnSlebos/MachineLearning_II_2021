@@ -1,0 +1,17 @@
+Types of projects
+
+Understanding a new ML paradigm X --- for instance deep learning, some deep reinforcement learning, ... So you study X and apply it to some specific (toy) problems.
+Participate in a ML challenge: “To what extend can one automatically classify or predict …. “. For instance see Kaggle. Needed is of course data.
+But a mix is also possible. For instance studying the applicability of deep learning to tough classification.
+
+And of course you may define your own project.
+  List of possible projects
+    Websites with challenging projects:
+- www.kaggle.com (Links to an external site.) A website with a large offering of challenges including datasets. Ranging from very easy to very hard.
+- https://physionet.org/challenge/2017/# (Links to an external site.)introduction (Links to an external site.). Classifying different types of heart failure.
+- https://gym.openai.com/ (Links to an external site.) Do a project in Reinforcement learning.
+    Reinforcement learning deals with learning from delayed feedback through trial and error by an agent acting in an environment. In this way the agent creates its own dataset. OpenAI has created environments and algorithms for you to use, all open source. For more info ask Alex (the TA).
+- http:// (Links to an external site.)bnci-horizon-2020.eu/database/data-sets (Links to an external site.). Finding Event Related Potentials or correlates of Imaginary Movements in EEG.
+- https:// (Links to an external site.)data.4tu.nl/repository/uuid:5ef62345-3b3e-479c-8e1d-c922748c9b29 (Links to an external site.). Touch challenge, recognizing touch
+- http:// (Links to an external site.)www.chalearn.org/challenges.html  (Links to an external site.)This website contains at the end also a list of websites with ML challenges.
+- https://www.physionet.org/cgi-bin/atm/ATM (Links to an external site.). Website contains a lot of medical data for ML challenges.
