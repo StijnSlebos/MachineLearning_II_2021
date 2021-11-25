@@ -24,6 +24,7 @@ Interesting challenges on Kaggle:
   https://www.kaggle.com/c/indoor-location-navigation
   https://www.kaggle.com/c/ventilator-pressure-prediction/data
   https://www.kaggle.com/c/sartorius-cell-instance-segmentation
+  https://www.kaggle.com/c/tmdb-box-office-prediction/code
 Interesting elsewheres:
   https://research.utwente.nl/en/publications/amenet-attentive-maps-encoder-network-for-trajectory-prediction
   https://research.utwente.nl/en/publications/an-ensemble-of-autonomous-auto-encoders-for-human-activity-recogn
