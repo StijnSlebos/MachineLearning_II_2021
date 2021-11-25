@@ -15,3 +15,19 @@ And of course you may define your own project.
 - https:// (Links to an external site.)data.4tu.nl/repository/uuid:5ef62345-3b3e-479c-8e1d-c922748c9b29 (Links to an external site.). Touch challenge, recognizing touch
 - http:// (Links to an external site.)www.chalearn.org/challenges.html  (Links to an external site.)This website contains at the end also a list of websites with ML challenges.
 - https://www.physionet.org/cgi-bin/atm/ATM (Links to an external site.). Website contains a lot of medical data for ML challenges.
+
+
+
+Interesting challenges on Kaggle:
+  https://www.kaggle.com/c/tpu-getting-started/overview/faq
+  https://www.kaggle.com/c/titanic/overview
+  https://www.kaggle.com/c/indoor-location-navigation
+  https://www.kaggle.com/c/ventilator-pressure-prediction/data
+  https://www.kaggle.com/c/sartorius-cell-instance-segmentation
+Interesting elsewheres:
+  https://research.utwente.nl/en/publications/amenet-attentive-maps-encoder-network-for-trajectory-prediction
+  https://research.utwente.nl/en/publications/an-ensemble-of-autonomous-auto-encoders-for-human-activity-recogn
+  https://research.utwente.nl/en/publications/a-dynamic-reconfigurable-architecture-for-hybrid-spiking-and-conv
+  Figure out a topic to apply reinforcement learning on: https://gym.openai.com/
+  Challenge: https://research.utwente.nl/en/publications/touch-challenge-15-recognizing-social-touch-gestures 
+  
